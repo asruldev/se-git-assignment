@@ -14,6 +14,7 @@
   - push
   - pull request
   - pull
+...
 
 ## Prerequisite
 
